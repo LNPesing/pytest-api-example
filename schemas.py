@@ -6,7 +6,7 @@ pet = {
             "type": "integer"
         },
         "name": {
-            "type": "integer"
+            "type": "string" # actual response return string instead of integer
         },
         "type": {
             "type": "string",
