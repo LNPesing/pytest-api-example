@@ -41,10 +41,10 @@ pytest -v --html=report.html
 * It is not expected that you complete every task, however, please give your best effort 
 * You will be scored based on your ability to complete the following tasks:
 
-- [ ] Install and setup this repository on your personal computer
-- [ ] Complete the automation tasks listed below
+- [X] Install and setup this repository on your personal computer 
+- [X] Complete the automation tasks listed below
 
 ### Tasks
-- [ ] Extend and fix the 3 tests from [test_pet.py](test_pet.py#1). There are TODO instructions for each test listed in the file
-- [ ] Create the PATCH test for [test_store.py](test_store.py#1). There are TODO instructions for test along with optional tasks
-- [ ] Take note of any bugs you may have found
+- [X] Extend and fix the 3 tests from [test_pet.py](test_pet.py#1). There are TODO instructions for each test listed in the file
+- [X] Create the PATCH test for [test_store.py](test_store.py#1). There are TODO instructions for test along with optional tasks
+- [X] Take note of any bugs you may have found # localhost doesn't work on MacOS Sequoia 15.5
